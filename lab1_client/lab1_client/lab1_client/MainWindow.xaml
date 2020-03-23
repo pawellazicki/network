@@ -1,0 +1,25 @@
+﻿<Window x:Class="lab1_client.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab1_client"
+        mc:Ignorable="d"
+        Title="MainWindow" 
+        MinWidth="750"
+        MinHeight="250"
+        Height="450" 
+        Width="800">
+    <Grid>
+        <Button x:Name="ConnectButt" Content="Connect" Click="buttConnect_Click" Width="100" Height="30" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,20,150,0"/>
+        <Button x:Name="DisconnectButt" Content="Disconnect" Click="buttDisconnect_Click" Width="100" Height="30" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,20,20,0" IsEnabled="False"/>
+        <Label Content="TCP server IP or domain name" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,20,0,0" FontSize="14"/>
+        <TextBox x:Name="DomainNameTextBox" Text="localhost" VerticalAlignment="Top" HorizontalAlignment="Left" Width="80" Margin="215,25,0,0" FontSize="14"/>
+        <Label Content="TCP server port" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="310,20,0,0" FontSize="14"/>
+        <TextBox x:Name="PortTextBox" Text="7" VerticalAlignment="Top" HorizontalAlignment="Left" Width="40" Margin="415,25,0,0" FontSize="14"/>
+        <Label Content="Message to sent:" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="20,60,0,0" FontSize="14"/>
+        <TextBox x:Name="MessageTextBox"  VerticalAlignment="Top" HorizontalAlignment="Left" MinWidth="240" Margin="140,65,0,0" FontSize="14"/>
+        <Button x:Name="SendMessButt" Content="Send" Click="SendMessButt_Click" Height="30" Width="80" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,60,20,0" IsEnabled="False"/>
+        <TextBox x:Name="LogTextBox" Margin="20,100,20,20"/>
+    </Grid>
+</Window>

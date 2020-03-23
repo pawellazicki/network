@@ -1,0 +1,28 @@
+C:\Users\Student\source\repos\lab1_client\lab1_client\lab1_client\bin\Debug\lab1_client.exe.config
+C:\Users\Student\source\repos\lab1_client\lab1_client\lab1_client\bin\Debug\lab1_client.exe
+C:\Users\Student\source\repos\lab1_client\lab1_client\lab1_client\bin\Debug\lab1_client.pdb
+C:\Users\Student\source\repos\lab1_client\lab1_client\lab1_client\obj\Debug\lab1_client.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\lab1_client\lab1_client\lab1_client\obj\Debug\MainWindow.g.cs
+C:\Users\Student\source\repos\lab1_client\lab1_client\lab1_client\obj\Debug\App.g.cs
+C:\Users\Student\source\repos\lab1_client\lab1_client\lab1_client\obj\Debug\lab1_client_MarkupCompile.cache
+C:\Users\Student\source\repos\lab1_client\lab1_client\lab1_client\obj\Debug\lab1_client_MarkupCompile.lref
+C:\Users\Student\source\repos\lab1_client\lab1_client\lab1_client\obj\Debug\MainWindow.baml
+C:\Users\Student\source\repos\lab1_client\lab1_client\lab1_client\obj\Debug\lab1_client.g.resources
+C:\Users\Student\source\repos\lab1_client\lab1_client\lab1_client\obj\Debug\lab1_client.Properties.Resources.resources
+C:\Users\Student\source\repos\lab1_client\lab1_client\lab1_client\obj\Debug\lab1_client.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\lab1_client\lab1_client\lab1_client\obj\Debug\lab1_client.exe
+C:\Users\Student\source\repos\lab1_client\lab1_client\lab1_client\obj\Debug\lab1_client.pdb
+C:\Users\pawel\OneDrive\dysk\studia\programowanie sieciowe\lab1_client\lab1_client\lab1_client\bin\Debug\lab1_client.exe.config
+C:\Users\pawel\OneDrive\dysk\studia\programowanie sieciowe\lab1_client\lab1_client\lab1_client\bin\Debug\lab1_client.exe
+C:\Users\pawel\OneDrive\dysk\studia\programowanie sieciowe\lab1_client\lab1_client\lab1_client\bin\Debug\lab1_client.pdb
+C:\Users\pawel\OneDrive\dysk\studia\programowanie sieciowe\lab1_client\lab1_client\lab1_client\obj\Debug\lab1_client.csprojAssemblyReference.cache
+C:\Users\pawel\OneDrive\dysk\studia\programowanie sieciowe\lab1_client\lab1_client\lab1_client\obj\Debug\MainWindow.g.cs
+C:\Users\pawel\OneDrive\dysk\studia\programowanie sieciowe\lab1_client\lab1_client\lab1_client\obj\Debug\App.g.cs
+C:\Users\pawel\OneDrive\dysk\studia\programowanie sieciowe\lab1_client\lab1_client\lab1_client\obj\Debug\lab1_client_MarkupCompile.cache
+C:\Users\pawel\OneDrive\dysk\studia\programowanie sieciowe\lab1_client\lab1_client\lab1_client\obj\Debug\lab1_client_MarkupCompile.lref
+C:\Users\pawel\OneDrive\dysk\studia\programowanie sieciowe\lab1_client\lab1_client\lab1_client\obj\Debug\MainWindow.baml
+C:\Users\pawel\OneDrive\dysk\studia\programowanie sieciowe\lab1_client\lab1_client\lab1_client\obj\Debug\lab1_client.g.resources
+C:\Users\pawel\OneDrive\dysk\studia\programowanie sieciowe\lab1_client\lab1_client\lab1_client\obj\Debug\lab1_client.Properties.Resources.resources
+C:\Users\pawel\OneDrive\dysk\studia\programowanie sieciowe\lab1_client\lab1_client\lab1_client\obj\Debug\lab1_client.csproj.GenerateResource.cache
+C:\Users\pawel\OneDrive\dysk\studia\programowanie sieciowe\lab1_client\lab1_client\lab1_client\obj\Debug\lab1_client.exe
+C:\Users\pawel\OneDrive\dysk\studia\programowanie sieciowe\lab1_client\lab1_client\lab1_client\obj\Debug\lab1_client.pdb
